@@ -16,3 +16,7 @@ Hi, I'm Vicky Herdiansyah Adri ✋
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickyadrii) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vickyadri29) 
 
+
+## 📈 GitHub Stats:
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=vickyadrii&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+
